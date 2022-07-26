@@ -1,0 +1,11 @@
+{
+    "name": "fastuser/mytestdomenfortmsat.site",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
